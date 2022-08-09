@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Carlos C. Harris Castillo",
+	"author": {
+		"name": "Carlos C. Harris Castillo"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
